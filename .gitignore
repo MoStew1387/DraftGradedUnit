@@ -3,9 +3,7 @@
 
 #Just for inital model
 /Draft/Migrations
-/Draft/Models/Properties
-/Draft/Models/User
-/Draft/Models/Schedule
+
 
 # User-specific files
 *.suo
